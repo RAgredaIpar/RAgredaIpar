@@ -52,9 +52,9 @@ I believe in active learning, where every small technical achievement becomes a 
 ## 📊 Estadísticas de GitHub / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAgredaIpar&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAgredaIpar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAgredaIpar&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAgredaIpar&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAgredaIpar&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAgredaIpar&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
