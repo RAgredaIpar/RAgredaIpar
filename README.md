@@ -1,154 +1,74 @@
 <div align="center">
 
-  <!-- Dynamic Waving Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Rodrigo%20Agreda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Distributed%20Systems%20%26%20Applied%20AI&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=2e3440&strokeWidth=1&height=125&section=header&text=Rodrigo%20Agreda&fontSize=40&fontColor=eceff4&fontAlignY=38&desc=Fullstack%20%E2%80%A2%20Cloud%20%26amp%3B%20Security%20%E2%80%A2%20Automation%20%E2%80%A2%20Applied%20AI&descFontSize=14&descColor=88c0d0&descAlignY=68" width="100%" alt="Header" />
 
-  <!-- Animated Real-Time Typing Role Header -->
-  <a href="https://github.com/RAgredaIpar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Distributed+Systems+%26+Backend+Engineer;Applied+AI+%26+Computer+Vision+Researcher;High-Throughput+%26+Zero-Allocation+Go+Architectures;Cloud+Infrastructure+%26+Serverless+Engineering" alt="Typing SVG" />
-  </a>
+<p>
+  <a href="mailto:r.agredaipar@gmail.com"><img src="https://img.shields.io/badge/Email-2e3440?style=flat-square&logo=gmail&logoColor=88c0d0" alt="Email" /></a>
+  <a href="https://github.com/RAgredaIpar"><img src="https://img.shields.io/badge/GitHub-2e3440?style=flat-square&logo=github&logoColor=88c0d0" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/rodrigo-agreda"><img src="https://img.shields.io/badge/LinkedIn-2e3440?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzg4YzBkMCI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/github/followers/RAgredaIpar?style=flat-square&color=2e3440&labelColor=1b222c&logo=github&logoColor=88c0d0" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=RAgredaIpar&style=flat-square&color=2e3440&labelColor=1b222c" alt="Views" />
+</p>
 
-  <p align="center">
-    <a href="mailto:r.agredaipar@gmail.com"><img src="https://img.shields.io/badge/Email-r.agredaipar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-    <a href="https://github.com/RAgredaIpar"><img src="https://img.shields.io/badge/GitHub-RAgredaIpar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
-    <a href="https://linkedin.com/in/rodrigo-agreda"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=88c0d0&height=1" width="55%" alt="Divider" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Separator" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&repeat=false&separator=||&color=88C0D0&center=true&vCenter=true&width=720&height=44&lines=Don%27t%20look%20back%2C%20you%27re%20not%20going%20that%20way" alt="Motto" />
 
 </div>
 
-## 🛰️ Executive Summary
-
-I am a **Systems Engineer** specializing in **high-performance backend architectures**, **distributed systems**, and **applied machine learning**. My engineering focus revolves around writing deterministic, low-latency, zero-allocation software, tackling complex concurrency constraints, and building clinical/scientific deep learning models that solve high-impact production problems.
-
-* ⚡ **Distributed Systems:** Architected two-tier rate-limiting engines capable of **100M+ ops/sec** with sub-12ns latency, sharded concurrency, and atomic Redis Lua coordination.
-* 🔬 **Computer Vision & Healthcare AI:** Engineered deep learning virtual staining pipelines (Pix2Pix, U-Net) for histopathological cell quantification (Ki-67 & Pan-CK+) deployed for hospital environments.
-* 🧠 **Generative AI & LLMs:** Fine-tuned open-source language models (Qwen 2.5) via QLoRA for enterprise IT workflows, quantized to GGUF, and orchestrated with Ollama.
-* ☁️ **Cloud & DevOps:** Production experience deploying resilient AWS serverless infrastructures via Terraform (IaC), Jenkins CI/CD automation, and Docker containerization.
-
 ---
 
-## ⚡ Featured Engineering Architectures
+### Technologies
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/RAgredaIpar/distributed-rate-limiter">⚡ Distributed Rate Limiter</a></h3>
-      <p align="center"><b>Production-Grade Two-Tier Rate Limiter in Go</b></p>
-      <ul>
-        <li><b>Latency:</b> ~10ns local checks via 64-shard FNV-1a in-memory cache with zero heap allocations.</li>
-        <li><b>Coordination:</b> Atomic remote token leasing via embedded Redis Lua scripts preventing race conditions.</li>
-        <li><b>Resilience:</b> 3-state Circuit Breaker (Closed, Open, Half-Open) with graceful fallback and Prometheus telemetry.</li>
-      </ul>
-      <p align="center">
-        <code>Go</code> • <code>Redis Lua</code> • <code>gRPC</code> • <code>Prometheus</code> • <code>Concurrency</code>
-      </p>
+      <b>Languages & Fullstack</b><br/><br/>
+      <img src="https://img.shields.io/badge/Go-2e3440?style=flat-square&logo=go&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Python-2e3440?style=flat-square&logo=python&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/TypeScript-2e3440?style=flat-square&logo=typescript&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Java-2e3440?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjODhjMGQwIiBkPSJNNDcuNjE3IDk4LjEyYy0xOS4xOTIgNS4zNjIgMTEuNjc3IDE2LjQzOSAzNi4xMTUgNS45NjktNC4wMDMtMS41NTYtNi44NzQtMy4zNTEtNi44NzQtMy4zNTEtMTAuODk3IDIuMDYtMTUuOTUyIDIuMjIyLTI1Ljg0NCAxLjA5Mi04LjE2NC0uOTM1LTMuMzk3LTMuNzEtMy4zOTctMy43MXptMzMuMTg5LTEwLjQ2Yy0xNC40NDQgMi43NzktMjIuNzg3IDIuNjktMzMuMzU0IDEuNi04LjE3MS0uODQ1LTIuODIyLTQuODA1LTIuODIyLTQuODA1LTIxLjEzNyA3LjAxNiAxMS43NjcgMTQuOTc3IDQxLjMwOSA2LjMzNi0zLjE0LTEuMTA2LTUuMTMzLTMuMTMxLTUuMTMzLTMuMTMxem0xMS4zMTktNjAuNTc1Yy4wMDEgMC00Mi43MzEgMTAuNjY5LTIyLjMyMyAzNC4xODcgNi4wMjQgNi45MzUtMS41OCAxMy4xNy0xLjU4IDEzLjE3czE1LjI4OS03Ljg5MSA4LjI2OS0xNy43NzdjLTYuNTU5LTkuMjE1LTExLjU4Ny0xMy43OTMgMTUuNjM0LTI5LjU4em05Ljk5OCA4MS4xNDRzMy41MjkgMi45MS0zLjg4OCA1LjE1OWMtMTQuMTAyIDQuMjcyLTU4LjcwNiA1LjU2LTcxLjA5NS4xNzEtNC40NS0xLjkzOCAzLjg5OS00LjYyNSA2LjUyNi01LjE5MiAyLjczOS0uNTkzIDQuMzAzLS40ODUgNC4zMDMtLjQ4NS00Ljk1Mi0zLjQ4Ny0zMi4wMTMgNi44NS0xMy43NDIgOS44MTUgNDkuODIxIDguMDc2IDkwLjgxNy0zLjYzNyA3Ny44OTYtOS40Njh6TTg1IDc3Ljg5NmMyLjM5NS0xLjYzNCA1LjcwMy0zLjA1MyA1LjcwMy0zLjA1M3MtOS40MjQgMS42ODUtMTguODEzIDIuNDc0Yy0xMS40OTQuOTY0LTIzLjgyMyAxLjE1NC0zMC4wMTIuMzI2LTE0LjY1Mi0xLjk1OSA4LjAzMy03LjM0OCA4LjAzMy03LjM0OHMtOC44MTItLjU5Ni0xOS42NDQgNC42NDRDMTcuNDU1IDgxLjEzNCA2MS45NTggODMuOTU4IDg1IDc3Ljg5NnptNS42MDkgMTUuMTQ1Yy0uMTA4LjI5LS40NjguNjE2LS40NjguNjE2IDMxLjI3My04LjIyMSAxOS43NzUtMjguOTc5IDQuODIyLTIzLjcyNS0xLjMxMi40NjQtMiAxLjU0My0yIDEuNTQzcy44MjktLjMzNCAyLjY3OC0uNzJjNy41NTktMS41NzUgMTguMzg5IDEwLjExOS01LjAzMiAyMi4yODZ6TTY0LjE4MSA3MC4wNjljLTQuNjE0LTEwLjQyOS0yMC4yNi0xOS41NTMuMDA3LTM1LjU1OUM4OS40NTkgMTQuNTYzIDc2LjQ5MiAxLjU4NyA3Ni40OTIgMS41ODdjNS4yMyAyMC42MDgtMTguNDUxIDI2LjgzMy0yNi45OTkgMzkuNjY3LTUuODIxIDguNzQ1IDIuODU3IDE4LjE0MiAxNC42ODggMjguODE1em0yNy4yNzQgNTEuNzQ4Yy0xOS4xODcgMy42MTItNDIuODU0IDMuMTkxLTU2Ljg4Ny44NzQgMCAwIDIuODc0IDIuMzggMTcuNjQ2IDMuMzMxIDIyLjQ3NiAxLjQzNyA1Ny0uOCA1Ny44MTYtMTEuNDM2LjAwMSAwLTEuNTcgNC4wMzItMTguNTc1IDcuMjMxeiIvPjwvc3ZnPg%3D%3D" />
+      <img src="https://img.shields.io/badge/Spring_Boot-2e3440?style=flat-square&logo=springboot&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/FastAPI-2e3440?style=flat-square&logo=fastapi&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Next.js-2e3440?style=flat-square&logo=nextdotjs&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Angular-2e3440?style=flat-square&logo=angular&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Nuxt-2e3440?style=flat-square&logo=nuxt&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-2e3440?style=flat-square&logo=tailwindcss&logoColor=88c0d0" />
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/RAgredaIpar/PanCK-VirtualStaining-CV">🔬 Virtual Staining & Ki-67 Digital Pathology</a></h3>
-      <p align="center"><b>Deep Learning for Automated Histopathological Quantification</b></p>
-      <ul>
-        <li><b>Computer Vision:</b> Pix2Pix GANs and U-Net architectures for transforming H&E biopsy slides into IHC staining.</li>
-        <li><b>Clinical Impact:</b> Automated proliferation scoring for Hospital de Alta Complejidad Virgen de la Puerta (EsSalud).</li>
-        <li><b>Validation:</b> Benchmarked against SOTA datasets (DeepLIIF) with spectral decoupling algorithms.</li>
-      </ul>
-      <p align="center">
-        <code>Python</code> • <code>PyTorch</code> • <code>U-Net / Pix2Pix</code> • <code>OpenCV</code> • <code>TypeScript</code>
-      </p>
+      <b>Data & Applied AI</b><br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-2e3440?style=flat-square&logo=pytorch&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/TensorFlow-2e3440?style=flat-square&logo=tensorflow&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/OpenCV-2e3440?style=flat-square&logo=opencv&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Ollama-2e3440?style=flat-square&logo=ollama&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Redis-2e3440?style=flat-square&logo=redis&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/PostgreSQL-2e3440?style=flat-square&logo=postgresql&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Supabase-2e3440?style=flat-square&logo=supabase&logoColor=88c0d0" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/RAgredaIpar/qwen-helpdesk-qlora">🧠 Autonomous HelpDesk LLM (QLoRA)</a></h3>
-      <p align="center"><b>Supervised Fine-Tuning & Local GGUF Orchestration</b></p>
-      <ul>
-        <li><b>Model Optimization:</b> Fine-tuned Qwen2.5-1.5B-Instruct using 4-bit QLoRA with custom domain datasets.</li>
-        <li><b>Local Inference:</b> Quantized weights to GGUF format for low-latency local execution via Ollama.</li>
-        <li><b>API Layer:</b> Custom Python orchestration layer handling conversation state and Gradio verification UI.</li>
-      </ul>
-      <p align="center">
-        <code>Python</code> • <code>Hugging Face</code> • <code>QLoRA</code> • <code>Ollama / GGUF</code> • <code>Gradio</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/RAgredaIpar/aproil-backend">☁️ AWS Serverless Infrastructure</a></h3>
-      <p align="center"><b>Enterprise Cloud Infrastructure & CI/CD Pipeline</b></p>
-      <ul>
-        <li><b>Architecture:</b> Event-driven AWS Lambda microservices backed by Amazon S3 and Amazon RDS (PostgreSQL).</li>
-        <li><b>Infrastructure as Code:</b> Declarative cloud provisioning with Terraform for reproducible environments.</li>
-        <li><b>DevOps:</b> Automated build, test, and deployment pipelines using Jenkins and Docker.</li>
-      </ul>
-      <p align="center">
-        <code>AWS Lambda</code> • <code>Terraform</code> • <code>PostgreSQL</code> • <code>Jenkins</code> • <code>Docker</code>
-      </p>
+    <td colspan="2" align="center">
+      <b>Cloud, Security & Automation</b><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-2e3440?style=flat-square&logo=icloud&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Terraform-2e3440?style=flat-square&logo=terraform&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Docker-2e3440?style=flat-square&logo=docker&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Nginx-2e3440?style=flat-square&logo=nginx&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Linux-2e3440?style=flat-square&logo=linux&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Jenkins-2e3440?style=flat-square&logo=jenkins&logoColor=88c0d0" />
+      <img src="https://img.shields.io/badge/Grafana-2e3440?style=flat-square&logo=grafana&logoColor=88c0d0" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+### GitHub Overview
 
 <div align="center">
-
-  <!-- Interactive Skill Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,java,ts,cpp,c,postgres,redis,aws,terraform,docker,jenkins,pytorch,opencv,fastapi,spring,nextjs,linux,git,bash" alt="My Tech Stack" />
-  </a>
-
-</div>
-
-<br/>
-
-<details>
-  <summary><b>🔍 Detailed Systems Breakdown (Click to expand)</b></summary>
-  <br/>
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Go (Golang), Python, Java, TypeScript, C++, C, SQL, Bash |
-| **Distributed Systems & Storage** | Redis (Lua Scripts), PostgreSQL, Amazon RDS, MongoDB, gRPC, Protocol Buffers |
-| **AI, Computer Vision & LLMs** | PyTorch, U-Net, Pix2Pix GANs, OpenCV, Hugging Face, QLoRA, Ollama (GGUF), Gradio |
-| **Cloud, DevOps & Observability** | AWS (Lambda, S3, RDS), Terraform (IaC), Docker, Jenkins CI/CD, Prometheus, Grafana |
-| **Web & Frameworks** | FastAPI, Spring Boot / Spring Cloud, Next.js, Node.js, Tailwind CSS |
-
-</details>
-
----
-
-## 📊 Telemetry & Engineering Activity
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=RAgredaIpar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" width="100%" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAgredaIpar&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0f172a" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Top Languages Compact Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAgredaIpar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
-
-</div>
-
----
-
-## 🐍 Interactive Contribution Stream
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RAgredaIpar/RAgredaIpar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <sub>Engineered with precision • Powered by Go, PyTorch & Distributed Systems • 2026</sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAgredaIpar&theme=nord_dark" width="98%" alt="Nord Profile Details" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RAgredaIpar&theme=nord_dark" width="48%" alt="Nord Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAgredaIpar&theme=nord_dark" width="48%" alt="Nord Languages" />
 </div>
