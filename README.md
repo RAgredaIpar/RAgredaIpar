@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&repeat=false&separator=||&color=88C0D0&center=true&vCenter=true&width=720&height=44&lines=Don%27t%20look%20back%2C%20you%27re%20not%20going%20that%20way" alt="Motto" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=5000&separator=||&color=88C0D0&center=true&vCenter=true&width=720&height=44&lines=Don%27t%20look%20back%2C%20you%27re%20not%20going%20that%20way" alt="Motto" />
 
 </div>
 
